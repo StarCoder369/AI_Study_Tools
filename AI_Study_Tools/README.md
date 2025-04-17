@@ -43,7 +43,7 @@ Download Ollama from:
 
 Install it like any normal app, then **launch Ollama** — it must be running in the background.
 
-Open a terminal (Command Prompt, Terminal, or PyCharm's terminal) and run:
+Open a terminal (Command Prompt or Terminal) and run:
 
 ```bash
 ollama run phi-2
