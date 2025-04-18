@@ -71,6 +71,45 @@ python3 -m pip install -r requirements.txt
 > sudo apt install python3-tk
 > ```
 
+# MAC USERS
+To open terminal in the folder:
+## Option 1: Use Finder
+Open Finder and navigate to the folder.
+
+Right-click (or Control + Click) inside the folder.
+
+Select "New Terminal at Folder".
+
+## Option 2: Use Terminal Manually
+Open Terminal (search "Terminal" in Spotlight).
+
+Use cd to navigate to your folder
+
+```bash
+cd ~/Desktop/YourFolderName
+```
+
+# WINDOW USERS
+To open terminal in the folder:
+## Option 1: Use File Explorer
+Open File Explorer and navigate to your project folder.
+
+Click the address bar, type cmd, and hit Enter.
+→ This opens Command Prompt in that folder.
+
+Or, if you have Windows Terminal installed:
+
+Right-click in the folder while holding Shift, and choose “Open PowerShell window here” or “Open in Terminal”.
+
+## Option 2: Use Command Prompt Manually
+Open Command Prompt (search "cmd").
+
+Use cd to go to your project folder:
+
+```cd
+C:\Users\YourName\Desktop\YourFolderName
+```
+
 ---
 
 ### 4. ▶️ Launch the Toolkit
