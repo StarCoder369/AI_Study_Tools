@@ -46,7 +46,7 @@ Install it like any normal app, then **launch Ollama** — it must be running in
 Open a terminal (Command Prompt, Terminal, or PyCharm's terminal) and run:
 
 ```bash
-ollama run phi-2
+ollama run phi
 ```
 
 This will download and start the local AI model. **Keep this terminal open** while using the app.
