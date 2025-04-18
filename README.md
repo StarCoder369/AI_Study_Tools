@@ -7,8 +7,6 @@ This project is a suite of AI-powered educational tools that run locally using *
 
 - ✅ AI Study Timer (with motivational quotes)
 - ✅ Flashcard Generator
-- ✅ Grammar Checker
-- ✅ Quiz Maker
 - ✅ AI Concept Explainer
 
 All tools are accessed from a single launcher (`main.py`) and run through a user-friendly GUI built with Tkinter. No internet or API keys required.
